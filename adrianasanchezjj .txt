@@ -1,0 +1,5 @@
+history -c
+adriana sanchez
+git config --global user.name "adrianasanchezjj"
+git config --global user.email "adrianasanchezjj@gmail.com"
+~/.gitconfig
